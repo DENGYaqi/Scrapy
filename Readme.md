@@ -1,10 +1,9 @@
-## Scrapy
+## Scrapy 
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://github.com/DENGYaqi)
 
-An open source and collaborative framework for extracting the data you need from websites.
+> An open source and collaborative framework for extracting the data you need from websites.
 
-Test link is [scrapinghub](https://blog.scrapinghub.com/).
-
-Here is scrapinghub [Data](tutorial/tutorial/spiders/items.json), all title of scrapinghub, and test [Code](tutorial/tutorial/spiders/ScrapingHub.py).
+Test link is [scrapinghub](https://blog.scrapinghub.com/). Here is scrapinghub [Data](tutorial/tutorial/spiders/items.json), all title of scrapinghub, and test [Code](tutorial/tutorial/spiders/ScrapingHub.py).
 
 ### Crawl and Save data
 ```shell
