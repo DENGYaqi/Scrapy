@@ -1,6 +1,6 @@
 ## Scrapy
 
-An open source and collaborative framework for extracting the data you need from websites. 
+An open source and collaborative framework for extracting the data you need from websites. scrutinizer
 
 Test link is [scrapinghub](https://blog.scrapinghub.com/)
 
