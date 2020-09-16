@@ -2,8 +2,8 @@
 
 An open source and collaborative framework for extracting the data you need from websites.
 
-Test link is [scrapinghub](https://blog.scrapinghub.com/)
+Test link is [scrapinghub](https://blog.scrapinghub.com/).
 
-[Data](tutorial/tutorial/spiders/items.json)
+Here is scrapinghub [Data](tutorial/tutorial/spiders/items.json), all title of scrapinghub.
 
-[Code](tutorial/tutorial/spiders/ScrapingHub.py)
+Test [Code](tutorial/tutorial/spiders/ScrapingHub.py).
