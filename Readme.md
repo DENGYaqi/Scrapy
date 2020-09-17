@@ -4,7 +4,7 @@
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://github.com/DENGYaqi)
 
-Test link is [scrapinghub](https://blog.scrapinghub.com/) and test [Code](tutorial/tutorial/spiders/ScrapingHub.py). Here is scrapinghub [Title](tutorial/tutorial/spiders/items_title.json) and [Text](tutorial/tutorial/spiders/items_text_of_thumbnail_page.json).
+Test link is [scrapinghub](https://blog.scrapinghub.com/) and test [Code](tutorial/tutorial/spiders/ScrapingHub.py). Here's scrapinghub [Title](tutorial/tutorial/spiders/items_title.json) and [Text](tutorial/tutorial/spiders/items_text_of_thumbnail_page.json).
 
 ### Crawl and Save data
 ```shell
