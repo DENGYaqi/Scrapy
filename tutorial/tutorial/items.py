@@ -11,3 +11,5 @@ class ScrapingHubItem(scrapy.Item):
     title = scrapy.Field()
     link = scrapy.Field()
     desc = scrapy.Field()
+    text = scrapy.Field()
+    linktext = scrapy.Field()
